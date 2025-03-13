@@ -1,0 +1,6 @@
+{
+    "login": ":nth-child(1) > .auth__input",
+    "password": "#password",
+    "login_button": ".auth__button"
+  }
+  

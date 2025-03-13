@@ -1,0 +1,4 @@
+{
+    "enter_verification_code_button":"#cardnumber",
+    "confirm_payment_button":".payment__submit-button"
+}

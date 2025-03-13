@@ -1,0 +1,8 @@
+{
+    "enter_card_number_button": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "enter_expiration_date_button": ":nth-child(1) > .pay_base-input-v2",
+    "enter_cvc_button": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "enter_cardholder_name_button":".pay__input-box-last-of > .pay_base-input-v2",
+    "payment_button":".pay-btn"
+  }
+  
